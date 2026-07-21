@@ -54,7 +54,7 @@
 ### 👥 Team Projects
 | 프로젝트명 | 기간 | 핵심 내용 및 역할 | 주요 기술 스택 | Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Control Tower** | 2026.01 ~ 2026.03 | 항공사 전용 HR SaaS / 권한 및 상태 관리 체계 구축, HR 업무 흐름 맞춤형 API 개발 | Java, Spring Boot, MySQL, React, AWS | - |
+| **Control Tower** | 2026.01 ~ 2026.03 | 항공사 전용 HR SaaS / 권한 및 상태 관리 체계 구축, HR 업무 흐름 맞춤형 API 개발 | Java, Spring Boot, MySQL, React, AWS |  [🔗 GitHub](https://github.com/hanseo-lab/Control-Tower) |
 | **[병원 ERP 시스템](https://github.com/hanseo-lab/W3C-Project)** | 2025.10 ~ 2025.11 | 스마트 예약 관리 / 환자·진료 예약 데이터 정합성 관리 및 백엔드 로직 개발 | Java, JSP, Spring Boot, MyBatis, Oracle DB | [🔗 GitHub](https://github.com/hanseo-lab/W3C-Project) |
 
 ### 👤 Personal & Side Projects
@@ -91,7 +91,6 @@
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanseo-lab&show_icons=true&theme=radical&hide=contribs,prs" alt="Hanseo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseo-lab&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![Hanseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseo-lab&show_icons=true&theme=radical&hide=contribs,prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseo-lab&layout=compact&theme=radical)

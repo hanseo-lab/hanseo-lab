@@ -91,6 +91,7 @@
 
 ## 📈 GitHub Statistics
 
-![Hanseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseo-lab&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseo-lab&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanseo-lab&show_icons=true&theme=radical&hide=contribs,prs" alt="Hanseo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseo-lab&layout=compact&theme=radical" alt="Top Langs" />
+</p>
